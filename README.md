@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Comments](https://comment.injunweb.com/api/user/leejh08/svg?theme=dark)](https://comment.injunweb.com/leejh08)
 
 <!--
 **leejh08/leejh08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
