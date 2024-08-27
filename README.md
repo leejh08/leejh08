@@ -15,4 +15,4 @@
 <br>
 
 ![leejh08's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejh08&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejh08&layout=compact&theme=dracula)
+
