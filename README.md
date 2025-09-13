@@ -1,14 +1,14 @@
 ### Hi there
 <div align=center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejh08&show_icons=true&theme=ambient_gradient)](https://github.com/leejh08/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leejh08&show_icons=true&title_color=000000&icon_color=4a90e2&text_color=333333&bg_color=ffffff&hide_border=true&border_radius=12)
+
+
 
 <h2>stack</h2>
 <img src="https://img.shields.io/badge/-swift-F05138?style=for-the-badge&logo=swift&logoColor=black">
 </div>
 <br>
-
-
 
 <a href="https://github.com/devxb/gitanimals">
 <img
