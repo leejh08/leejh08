@@ -1,7 +1,7 @@
 ### Hi there
 <div align=center>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leejh08&show_icons=true&title_color=000000&icon_color=4a90e2&text_color=333333&bg_color=ffffff&hide_border=true&border_radius=12)
+
 
 
 
